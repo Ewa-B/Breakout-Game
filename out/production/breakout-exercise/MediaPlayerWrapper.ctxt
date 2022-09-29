@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MediaPlayerWrapper
+comment1.params=media
+comment1.target=MediaPlayerWrapper(javafx.scene.media.Media)
+comment2.params=
+comment2.target=javafx.scene.media.MediaPlayer\ getMediaPlayer()
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ pause()
+numComments=6

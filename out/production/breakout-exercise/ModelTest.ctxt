@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ModelTest
+comment1.params=
+comment1.target=void\ shouldReturnThreeHeartsWhenUserHasThreeLives()
+comment1.text=\r\n\ Testing\ if\ lives\ displayed\ are\ equal\ to\ lives\ set\r\n
+comment2.params=
+comment2.target=void\ shouldInitializeBricks()
+comment2.text=\r\n\ Testing\ if\ the\ brick\ array\ is\ initialised\r\n
+numComments=3

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PlatformWrapper
+comment1.params=runnable
+comment1.target=void\ runLater(java.lang.Runnable)
+numComments=2

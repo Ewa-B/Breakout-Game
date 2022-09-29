@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ControllerTest
+comment1.params=
+comment1.target=void\ shouldLoadScoresFromFile()
+comment1.text=\r\n\ This\ test\ uses\ mock\ test\ file\ -\ "userScoresTestFile.txt"\ -\ with\ 3\ names\ added\ to\ it\ <br>\r\n\ and\ checks\ if\ it's\ size\ is\ actual\ 3\ <br>\r\n\ Then\ it\ checks\ if\ the\ particular\ name\ in\ the\ file\ is\ associated\ with\ correct\ score.\r\n
+numComments=2

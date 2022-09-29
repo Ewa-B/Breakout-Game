@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GameState
+comment1.params=
+comment1.target=java.lang.String\ getGameState()
+comment2.params=value
+comment2.target=void\ setGameState(java.lang.String)
+numComments=3

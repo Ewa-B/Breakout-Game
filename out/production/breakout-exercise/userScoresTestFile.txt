@@ -1,0 +1,3 @@
+Chris:300
+Ewa:500
+Kalutek:50

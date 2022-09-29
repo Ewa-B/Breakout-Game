@@ -1,0 +1,83 @@
+
+
+#Breakout {
+/*    -fx-background-color: #edde95;*/
+    -fx-background-radius: 10px;
+    -fx-background-image: url('2.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 600 900;
+    -fx-background-position: center center;
+
+    }
+/*.label {
+    -fx-text-fill: silver;
+    -fx-font: bold 20pt "Comic Sans MS";
+    -fx-background-color: #0A6DB0;
+    -fx-background-radius: 10px;
+     -fx-opacity: 1;
+
+}*/
+#infoText, #lives{
+-fx-text-fill: black;
+-fx-font: bold 20pt "Comic Sans MS";
+-fx-background-radius: 5px;
+-fx-background-color:
+        linear-gradient(#e6eb96, #42d7f5);
+-fx-padding: 7px;
+}
+
+#username, #highestScore{
+    -fx-text-fill: silver;
+    -fx-font: bold 14pt "Comic Sans MS";
+    -fx-background-color: none;
+}
+
+
+
+}
+#Lives{
+    -fx-background-color: red;
+}
+
+#gameOver {
+ /*   -fx-font: bold 38pt "courier new";
+    -fx-background-color: red;*/
+    -fx-background-image: url('game-over.gif');
+
+
+}
+#pauseButton, #startButton{
+-fx-text-fill: black;
+-fx-background-color:
+        linear-gradient(#e876f5, #e6eb96);
+-fx-padding: 7px;
+-fx-font: bold 14pt "Comic Sans MS";
+
+}
+
+/*
+To style the buttons I used this website for inspirations:
+http://fxexperience.com/2011/12/styling-fx-buttons-with-css/
+*/
+#loginButton {
+    -fx-background-color:
+        linear-gradient(#ffd65b, #e68400),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-padding: 10 20 10 20;
+}
+#loginTF, #loginLabel{
+-fx-text-fill: black;
+-fx-padding: 15px;
+-fx-background-color:
+        linear-gradient(#42d7f5, #e6eb96);
+-fx-font: bold 14pt "Comic Sans MS";
+-fx-effect: dropshadow(three-pass-box, pink, 30, 0, 0, 0);
+}
